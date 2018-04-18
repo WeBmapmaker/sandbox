@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7690"
-	"mapversion" "655"
+	"mapversion" "656"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "655"
+	"mapversion" "656"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -3896,7 +3896,7 @@ entity
 	"StartDisabled" "0"
 	"SuppressAnimSounds" "0"
 	"targetname" "hetzer_camo"
-	"origin" "2588 1816 -944"
+	"origin" "1588 1816 -944"
 	editor
 	{
 		"color" "210 135 0"
@@ -3948,7 +3948,7 @@ entity
 	"StartDisabled" "0"
 	"SuppressAnimSounds" "0"
 	"targetname" "hetzer_camo"
-	"origin" "2400 1840 -948"
+	"origin" "1400 1840 -948"
 	editor
 	{
 		"color" "210 135 0"
@@ -4000,7 +4000,7 @@ entity
 	"StartDisabled" "0"
 	"SuppressAnimSounds" "0"
 	"targetname" "hetzer_camo"
-	"origin" "2416 1768 -952"
+	"origin" "1416 1768 -952"
 	editor
 	{
 		"color" "210 135 0"
@@ -4052,7 +4052,7 @@ entity
 	"StartDisabled" "0"
 	"SuppressAnimSounds" "0"
 	"targetname" "hetzer_camo"
-	"origin" "2456 1840 -928"
+	"origin" "1456 1840 -928"
 	editor
 	{
 		"color" "210 135 0"
@@ -4104,7 +4104,7 @@ entity
 	"StartDisabled" "0"
 	"SuppressAnimSounds" "0"
 	"targetname" "hetzer_camo"
-	"origin" "2524 1868 -920"
+	"origin" "1524 1868 -920"
 	editor
 	{
 		"color" "210 135 0"
@@ -4156,7 +4156,7 @@ entity
 	"StartDisabled" "0"
 	"SuppressAnimSounds" "0"
 	"targetname" "hetzer_camo"
-	"origin" "2472 1780 -924"
+	"origin" "1472 1780 -924"
 	editor
 	{
 		"color" "210 135 0"
@@ -4371,7 +4371,7 @@ entity
 	"StartDisabled" "0"
 	"SuppressAnimSounds" "0"
 	"targetname" "hetzer_camo"
-	"origin" "2512 1772 -952"
+	"origin" "1512 1772 -952"
 	editor
 	{
 		"color" "210 135 0"
@@ -4423,7 +4423,7 @@ entity
 	"StartDisabled" "0"
 	"SuppressAnimSounds" "0"
 	"targetname" "hetzer_camo"
-	"origin" "2488 1868 -948"
+	"origin" "1488 1868 -948"
 	editor
 	{
 		"color" "210 135 0"
@@ -4475,7 +4475,7 @@ entity
 	"StartDisabled" "0"
 	"SuppressAnimSounds" "0"
 	"targetname" "hetzer_camo"
-	"origin" "2600 1776 -956"
+	"origin" "1600 1776 -956"
 	editor
 	{
 		"color" "210 135 0"
