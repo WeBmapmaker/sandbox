@@ -1,9 +1,6 @@
 VertexLitGeneric
 {
-$basetexture "models/@vehicles/hetzer/wheel_back"
-$surfaceprop "metal"
-$envmap env_cubemap
-$envmapmask "metal\metal_plate01_ref"
-$envmaptint "[.4 .4 .4]"
-"%keywords" l4d2
+	$basetexture "models/@vehicles/hetzer/wheel_back"
+	$surfaceprop metal
+	$bumpmap "models/@vehicles/hetzer/wheel_back_nm"
 }
