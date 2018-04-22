@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7690"
-	"mapversion" "688"
+	"mapversion" "689"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "688"
+	"mapversion" "689"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -5228,6 +5228,7 @@ entity
 		"OnTrigger" "hetzer_track_right2DisableDraw0-1"
 		"OnTrigger" "hetzer_track_right1DisableDraw0-1"
 		"OnTrigger" "hetzer_camoDisableDraw0-1"
+		"OnTrigger" "hetzer_fun_stopTrigger0-1"
 	}
 	"origin" "2056 1592 -1016"
 	editor
