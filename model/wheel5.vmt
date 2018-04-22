@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/@vehicles/hetzer/wheel5"
+	$surfaceprop metal
+	$bumpmap "models/@vehicles/hetzer/wheel_nm"
+}
