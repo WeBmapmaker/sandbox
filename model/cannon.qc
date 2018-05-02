@@ -7,6 +7,7 @@ $body mainbody	"cannon.smd"
 $texturegroup "skins"
 {
 	{ "cannon" }
+	{ "cannonCaptured" }
 	{ "cannon2" }
 	{ "cannonOriginal" }
 }

@@ -7,6 +7,7 @@ $body mainbody	"body.smd"
 $texturegroup	"skins"
 {
 	{ "body" }
+	{ "bodyCaptured" }
 	{ "body2" }
 	{ "bodyOriginal" }
 }
